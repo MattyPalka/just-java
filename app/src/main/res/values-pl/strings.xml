@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Tylko kawkę</string>
+    <string name="name">Imię</string>
+    <string name="chocolate">Czekolada</string>
+    <string name="quantity">Ilość</string>
+    <string name="toppings">Dodatki</string>
+    <string name="order_button">Zamów</string>
+    <string name="order_summary_head">Podsumowanie zamówienia</string>
+    <string name="order_summary_name">Imię: <xliff:g id="customer" example="Matt">%1$s</xliff:g></string>
+    <string name="whipped_cream">Bita Śmietana</string>
+    <string name="order_summary_body">Razem: <xliff:g id="totalPrice" example="1">%1$d</xliff:g>zł</string>
+    <string name="minimal_order">Zamów conajmniej jedną kawę</string>
+    <string name="maximal_order">Nie możesz zamówić więcej niż 100 kaw</string>
+    <string name="add_whipped_cream">Dodać bitą śmietanę? </string>
+    <string name="thank_you">Dziękuję!</string>
+    <string name="email_subject">Zamówienie na tylko kawkę od <xliff:g id="customer" example="Matt">%1$s</xliff:g></string>
+    <string name="add_chocolate">Dodać czekoladę? </string>
+    <string name="quantity_summary">Ilość: <xliff:g id="quantity" example="1">%1$d</xliff:g></string>
+</resources>

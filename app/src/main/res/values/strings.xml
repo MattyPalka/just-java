@@ -1,0 +1,28 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!-- Hint text for a user name to input-->
+    <string name="name">Name</string>
+
+    <!-- Name for the order summary-->
+    <string name="order_summary_name">Name: <xliff:g id="customer" example="Matt">%1$s</xliff:g></string>
+
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="order_summary_head">Order Summary</string>
+    <string name="order_summary_body">Total: $<xliff:g id="quantity" example="1">%1$d</xliff:g></string>
+    <string name="add_whipped_cream">Add whipped cream? </string>
+    <string name="add_chocolate">Add chocolate? </string>
+
+    <string name="thank_you">Thank You!</string>
+    <string name="order_button">Order</string>
+
+    <string name="minimal_order">You need to order at least one coffee</string>
+    <string name="maximal_order">You cannot order more than 100 coffees</string>
+    <string name="email_subject">Just Java order from <xliff:g id="customer" example="Matt">%1$s</xliff:g></string>
+    <string name="quantity_summary">Quantity: <xliff:g id="quantity" example="1">%1$d</xliff:g></string>
+
+
+</resources>
